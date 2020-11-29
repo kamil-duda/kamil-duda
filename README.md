@@ -1,5 +1,5 @@
-[![Years Badge](https://badges.pufler.dev/years/fineconstant?style=for-the-badge&logo=github)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/fineconstant/fineconstant?style=for-the-badge&logo=osano)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/fineconstant/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/fineconstant?style=for-the-badge&logo=github)](https://badges.pufler.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fineconstant&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
