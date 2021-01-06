@@ -1,3 +1,5 @@
+[![Website](https://img.shields.io/website?label=fineconstant.com&style=for-the-badge&url=https%3A%2F%2Fwww.fineconstant.com/)](https://www.fineconstant.com/)
+
 [![Years Badge](https://badges.pufler.dev/years/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/fineconstant/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/fineconstant?style=for-the-badge&logo=github)](https://badges.pufler.dev)
