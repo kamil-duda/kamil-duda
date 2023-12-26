@@ -12,5 +12,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fineconstant&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Last stars
-[![Last Stars Display](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+[![Last Stars Display](https://badges.pufler.dev/last-stars/fineconstant?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
