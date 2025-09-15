@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=fineconstant.com&style=for-the-badge&url=https%3A%2F%2Fwww.fineconstant.com/)](https://www.fineconstant.com/)
+[![Website](https://img.shields.io/website?label=k7a.io&style=for-the-badge&url=https%3A%2F%2Fk7a.io)](https:/k7a.io)
 
 ## Stats
 [![Years Badge](https://badges.pufler.dev/years/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
