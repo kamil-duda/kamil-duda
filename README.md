@@ -1,16 +1,34 @@
 [![Website](https://img.shields.io/website?label=k7a.io&style=for-the-badge&url=https%3A%2F%2Fk7a.io)](https:/k7a.io)
 
 ## Stats
-[![Years Badge](https://badges.pufler.dev/years/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/fineconstant/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/fineconstant?style=for-the-badge&logo=github)](https://badges.pufler.dev)
+![GitHub Followers](https://img.shields.io/github/followers/kamil-duda?style=for-the-badge)
 
-[![Updated Badge](https://badges.pufler.dev/updated/fineconstant/fineconstant?style=for-the-badge)](https://badges.pufler.dev)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fineconstant&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fineconstant&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=default&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=default" />
+</picture>
 
-## Last stars
-[![Last Stars Display](https://badges.pufler.dev/last-stars/fineconstant?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
-
+<!--# 
+## Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
