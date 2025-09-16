@@ -5,27 +5,27 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&theme=nightowl&rank_icon=percentile&show=prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamil-duda&show_icons=true&include_all_commits=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage" />
 </picture>
 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=default&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=nightowl"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact&theme=default" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamil-duda&langs_count=8&layout=compact" />
 </picture>
 
 <!--# 
