@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=k7a.io&style=for-the-badge&url=https%3A%2F%2Fk7a.io)](https:/k7a.io)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fk7a.io&style=for-the-badge&label=WEBSITE%20k7a.io)
 
 ## Stats
 ![GitHub Followers](https://img.shields.io/github/followers/kamil-duda?style=for-the-badge)
